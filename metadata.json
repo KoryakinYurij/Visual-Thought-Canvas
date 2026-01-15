@@ -1,0 +1,5 @@
+{
+  "name": "MindSpark Canvas",
+  "description": "A visual thought canvas powered by Gemini 3. Features an infinite workspace with smart connections, AI-driven idea expansion, and smooth, physics-inspired drag-and-drop interactions.",
+  "requestFramePermissions": []
+}
